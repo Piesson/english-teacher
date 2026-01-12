@@ -72,17 +72,23 @@ When user gives you English text to correct:
 
 **This is NOT optional. You MUST do this.**
 
-After EVERY correction, ask yourself:
-- Is this a pattern the user might repeat?
-- Is this a common Korean-English mistake?
-- Would recording this help the user learn?
+This file tracks TWO things:
+1. **Mistakes & Corrections** - errors the user made and how to fix them
+2. **New Expressions Learned** - slang, abbreviations, phrases the user asked about
+
+After EVERY interaction, ask yourself:
+- Is this a pattern the user might repeat? → Record as mistake
+- Is this a common Korean-English mistake? → Record as mistake
+- Did the user learn a new expression/slang? → Record in Abbreviations & Slang section
+- Would recording this help the user learn? → Record it!
 
 If YES to any → **UPDATE mistakes.md IMMEDIATELY**
 
 Update rules:
 - If it's a NEW pattern → Add new section
 - If it's an EXISTING pattern → Add as new example under that pattern
-- Always include: wrong version, correct version, brief explanation
+- For mistakes: include wrong version, correct version, brief explanation
+- For new expressions: include the expression, meaning, and example usage
 
 ---
 
@@ -107,8 +113,9 @@ The file has these categories:
 - 🟡 Unnatural (어색한 표현)
 - 🟢 More Casual (더 캐주얼하게)
 - 🔵 Vocabulary (어휘 선택)
+- 🟣 Abbreviations & Slang (약어 & 슬랭) - 새로 배운 표현들
 
-When adding new mistakes, put them in the right category.
+When adding content, put it in the right category.
 
 ---
 

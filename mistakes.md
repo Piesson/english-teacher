@@ -1,6 +1,6 @@
-# English Mistakes Log
+# English Learning Log
 
-My common English mistakes and patterns to avoid.
+My English mistakes, patterns to avoid, and new expressions learned.
 
 ---
 
@@ -38,9 +38,22 @@ My common English mistakes and patterns to avoid.
 
 ## 🔵 Vocabulary (어휘 선택)
 
-### Template
-- ❌ wrong word → ✅ better word
-- 설명: why this word fits better
+*(아직 없음)*
+
+---
+
+## 🟣 Abbreviations & Slang (약어 & 슬랭)
+
+### 채팅 필수 약어
+| 약어 | 의미 | 예시 |
+|------|------|------|
+| **brb** | be right back | "brb bathroom" |
+| **gtg** | got to go | "gtg, talk later!" |
+| **ttyl** | talk to you later | "ttyl!" |
+| **omw** | on my way | "omw, 5 mins" |
+| **idk** | I don't know | "idk what to eat" |
+| **nvm** | never mind | "nvm, found it" |
+| **rn** | right now | "busy rn" |
 
 ---
 
