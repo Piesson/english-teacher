@@ -14,6 +14,20 @@ Treat these as correction requests:
 
 **Rule:** If the message contains English that looks like it needs correction, correct it. When in doubt, correct it.
 
+### Chat Log Format
+User often pastes chat logs in this format:
+```
+10:22 AM KB Have a good day
+10:40 AM Sarah / 사라 You too, my boy xx
+```
+
+**Recognition rules:**
+- **KB = User** (the person learning English)
+- Other names (Sarah, etc.) = friends/chat partners
+- Only review and correct **KB's messages**
+- Consider the conversation context when suggesting improvements
+- If meaning is unclear from context, ask for clarification
+
 ---
 
 ## CRITICAL RULES - MUST FOLLOW
