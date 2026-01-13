@@ -22,6 +22,10 @@ My English mistakes, patterns to avoid, and new expressions learned.
 - ❌ "my knee bleed" → ✅ "my knee bled"
 - 설명: bleed - bled - bled (불규칙 동사)
 
+### good vs well (부사 자리)
+- ❌ "adjusted yourself good" → ✅ "adjusted well" / "settled in well"
+- 설명: 동사 수식할 땐 부사 "well" 써야 함. "good"은 형용사!
+
 ---
 
 ## 🟡 Unnatural (어색한 표현)
@@ -65,6 +69,10 @@ My English mistakes, patterns to avoid, and new expressions learned.
 ### "connect with like-minded people" → 너무 링크드인
 - ❌ "connect with like-minded people" → ✅ "meet some cool people"
 - 설명: 친구들 모임에서 "like-minded people"은 너무 비즈니스 느낌. 그냥 "cool people" 쓰자
+
+### "adjusted yourself" → "settled in"
+- 🤷 "Have you adjusted yourself?" → ✅ "Have you settled in?" / "Feeling settled?"
+- 설명: "adjust"는 좀 formal. 새 환경에 적응했냐고 물을 땐 "settle in"이 더 캐주얼
 
 ---
 
