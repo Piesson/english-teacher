@@ -40,7 +40,11 @@ My English mistakes, patterns to avoid, and new expressions learned.
 
 ### "ripped off" vs "got ripped"
 - ❌ "jeans ripped off" → ✅ "ripped my jeans" / "my jeans got ripped"
-- 설명: "ripped off" = 강제로 벗겨짐 or 바가지 썼다(슬랭). 옷이 찢어진 건 "got ripped"
+- 설명:
+  - "ripped" = 찢어짐 (천이 손상됨)
+  - "ripped off" = 통째로 뜯겨나감/벗겨짐 (몸에서 완전히 분리)
+  - "ripped off" (슬랭) = 바가지 썼다, 사기당했다
+- 청바지 찢어진 거 말하려면 → "my jeans got ripped"
 
 ---
 
