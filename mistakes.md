@@ -25,6 +25,7 @@ My English mistakes, patterns to avoid, and new expressions learned.
 ### good vs well (부사 자리)
 - ❌ "adjusted yourself good" → ✅ "adjusted well" / "settled in well"
 - 설명: 동사 수식할 땐 부사 "well" 써야 함. "good"은 형용사!
+- ⚠️ **Flat adverb 참고**: 구어체에서는 "You did good", "drive slow" 처럼 형용사를 부사로 쓰기도 함 (원어민도 많이 씀). 다만 formal한 상황에서는 피하기
 
 ---
 
@@ -94,6 +95,20 @@ My English mistakes, patterns to avoid, and new expressions learned.
 | **idk** | I don't know | "idk what to eat" |
 | **nvm** | never mind | "nvm, found it" |
 | **rn** | right now | "busy rn" |
+
+### Flat Adverbs (구어체 부사)
+형용사를 부사처럼 쓰는 구어체 표현. 원어민 일상 대화에서 자주 씀!
+
+| 정식 | Flat Adverb | 예시 |
+|------|-------------|------|
+| slowly | slow | "Drive slow" |
+| quickly | quick | "Come quick!" |
+| loudly | loud | "Speak loud" |
+| well | good | "You did good" |
+| really | real | "That's real nice" |
+| tightly | tight | "Hold tight" |
+
+⚠️ Formal한 글쓰기에서는 -ly 형태 쓰기. 캐주얼 대화/텍스트에서는 flat adverb OK!
 
 ---
 
