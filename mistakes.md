@@ -38,6 +38,14 @@ My English mistakes, patterns to avoid, and new expressions learned.
 - 🤷 "I got injured" → ✅ "I hurt myself" / "I got hurt"
 - 설명: "injured"는 심각한 부상 느낌 (병원급). 가볍게 넘어진 건 "hurt myself"가 자연스러움
 
+### "it'd be fine" vs "I'll be fine"
+- 🤷 "it'd be fine" (자기 상태) → ✅ "I'll be fine"
+- 설명: 자기 상태 말할 땐 "I'll be fine". "it'd be fine"은 상황/물건에 대해 쓸 때
+
+### "shower it" (X)
+- ❌ "I'll shower it" → ✅ "I'll rinse it off" / "I'll wash it off"
+- 설명: "shower"는 샤워하다. 특정 부위/상처 씻는 건 "rinse off" 또는 "wash off"
+
 ### "ripped off" vs "got ripped"
 - ❌ "jeans ripped off" → ✅ "ripped my jeans" / "my jeans got ripped"
 - 설명:
