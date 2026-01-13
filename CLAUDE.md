@@ -90,6 +90,11 @@ Update rules:
 - For mistakes: include wrong version, correct version, brief explanation
 - For new expressions: include the expression, meaning, and example usage
 
+**After updating mistakes.md → ALWAYS commit and push:**
+```bash
+git add mistakes.md && git commit -m "Add [pattern name] to learning log" && git push
+```
+
 ---
 
 ## Response Template

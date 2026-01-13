@@ -14,6 +14,14 @@ My English mistakes, patterns to avoid, and new expressions learned.
 - ❌ "Hope you guys join" → ✅ "Hope you can join"
 - 설명: hope 뒤에 절이 오면 can/will 같은 조동사 넣어야 자연스러움
 
+### go on strike (항상 단수)
+- ❌ "They went on strikes" → ✅ "They went on strike"
+- 설명: "go on strike"는 항상 단수 형태. 복수형 strikes 쓰면 안 됨
+
+### bleed 과거형 = bled
+- ❌ "my knee bleed" → ✅ "my knee bled"
+- 설명: bleed - bled - bled (불규칙 동사)
+
 ---
 
 ## 🟡 Unnatural (어색한 표현)
@@ -21,6 +29,18 @@ My English mistakes, patterns to avoid, and new expressions learned.
 ### "a fresh start of ~" 표현
 - ❌ "Have a fresh start of Monday" → ✅ "Have a great start to your week"
 - 설명: "of Monday"는 어색함. "start to your week/day" 형태로 써야 자연스러움
+
+### "thrown away" vs "spilled"
+- ❌ "coffee thrown away to the floor" → ✅ "spilled my coffee everywhere"
+- 설명: thrown away = 일부러 버림 (휴지통에), spilled = 실수로 쏟음
+
+### "got injured" vs "hurt myself"
+- 🤷 "I got injured" → ✅ "I hurt myself" / "I got hurt"
+- 설명: "injured"는 심각한 부상 느낌 (병원급). 가볍게 넘어진 건 "hurt myself"가 자연스러움
+
+### "ripped off" vs "got ripped"
+- ❌ "jeans ripped off" → ✅ "ripped my jeans" / "my jeans got ripped"
+- 설명: "ripped off" = 강제로 벗겨짐 or 바가지 썼다(슬랭). 옷이 찢어진 건 "got ripped"
 
 ---
 
