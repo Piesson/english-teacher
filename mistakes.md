@@ -75,6 +75,10 @@ My English mistakes, patterns to avoid, and new expressions learned.
 - 🤷 "Have you adjusted yourself?" → ✅ "Have you settled in?" / "Feeling settled?"
 - 설명: "adjust"는 좀 formal. 새 환경에 적응했냐고 물을 땐 "settle in"이 더 캐주얼
 
+### "Love to" → "Would love to"
+- 🤷 "Love to!" → ✅ "Would love to!" / "I'd love to!"
+- 설명: 단독으로 쓸 때는 "Would love to" 또는 "I'd love to"가 더 자연스러움
+
 ---
 
 ## 🔵 Vocabulary (어휘 선택)
@@ -95,6 +99,14 @@ My English mistakes, patterns to avoid, and new expressions learned.
 | **idk** | I don't know | "idk what to eat" |
 | **nvm** | never mind | "nvm, found it" |
 | **rn** | right now | "busy rn" |
+
+### "hit the ~" 표현
+| 표현 | 의미 | 예시 |
+|------|------|------|
+| hit the trail | 그 코스 가다/달리다 | "Let's hit that trail" |
+| hit the road | 출발하다, 길 나서다 | "Time to hit the road" |
+| hit the gym | 헬스장 가다 | "I'm gonna hit the gym" |
+| hit the sack | 자러 가다 | "I'm tired, gonna hit the sack" |
 
 ### Flat Adverbs (구어체 부사)
 형용사를 부사처럼 쓰는 구어체 표현. 원어민 일상 대화에서 자주 씀!
