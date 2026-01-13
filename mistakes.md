@@ -83,7 +83,9 @@ My English mistakes, patterns to avoid, and new expressions learned.
 
 ## 🔵 Vocabulary (어휘 선택)
 
-*(아직 없음)*
+### "changed into" vs "switched to"
+- ❌ "I changed into terminal" → ✅ "I switched to terminal"
+- 설명: "change into" = 옷 갈아입다, 변신하다. 도구/환경 바꾸는 건 "switch to"
 
 ---
 
