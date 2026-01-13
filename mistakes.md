@@ -106,7 +106,16 @@ My English mistakes, patterns to avoid, and new expressions learned.
 | hit the trail | 그 코스 가다/달리다 | "Let's hit that trail" |
 | hit the road | 출발하다, 길 나서다 | "Time to hit the road" |
 | hit the gym | 헬스장 가다 | "I'm gonna hit the gym" |
-| hit the sack | 자러 가다 | "I'm tired, gonna hit the sack" |
+| ~~hit the sack~~ | 자러 가다 (👴 옛날 표현) | 요즘은 잘 안 씀 |
+
+### 자러 간다 (현대 표현)
+| 표현 | 뉘앙스 |
+|------|--------|
+| **gonna crash** | 가장 많이 씀 🔥 |
+| **gonna pass out** | 기절하듯 잔다 |
+| **gonna knock out** | 비슷한 느낌 |
+| **heading to bed** | 무난 |
+| **calling it a night** | 오늘은 여기까지 |
 
 ### Flat Adverbs (구어체 부사)
 형용사를 부사처럼 쓰는 구어체 표현. 원어민 일상 대화에서 자주 씀!
