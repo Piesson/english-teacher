@@ -27,6 +27,15 @@ My English mistakes, patterns to avoid, and new expressions learned.
 - 설명: 동사 수식할 땐 부사 "well" 써야 함. "good"은 형용사!
 - ⚠️ **Flat adverb 참고**: 구어체에서는 "You did good", "drive slow" 처럼 형용사를 부사로 쓰기도 함 (원어민도 많이 씀). 다만 formal한 상황에서는 피하기
 
+### vote + in (전치사 필수)
+- ❌ "vote the poll" → ✅ "vote in the poll"
+- 설명: vote는 자동사라서 목적어 바로 못 붙임. "vote in the poll" 또는 "vote on the issue"
+
+### 관계대명사 생략 오류
+- ❌ "someone here wants to join" → ✅ "someone here who wants to join" 또는 "anyone here who wants to join"
+- 🔥 더 자연스러운 해결책: 구조 자체를 바꾸기 → "If anyone wants to join"
+- 설명: "there's someone [who] wants..."에서 who 생략하면 어색. 아예 "anyone"으로 바꾸는 게 깔끔
+
 ---
 
 ## 🟡 Unnatural (어색한 표현)
