@@ -36,6 +36,26 @@ My English mistakes, patterns to avoid, and new expressions learned.
 - 🔥 더 자연스러운 해결책: 구조 자체를 바꾸기 → "If anyone wants to join"
 - 설명: "there's someone [who] wants..."에서 who 생략하면 어색. 아예 "anyone"으로 바꾸는 게 깔끔
 
+### take your time vs take the time
+- ❌ "Thank you for taking your time" → ✅ "Thank you for taking the time"
+- 설명:
+  - "take your time" = 천천히 해, 서두르지 마
+  - "take the time to ~" = 시간 내서 ~해주다
+- 예시: "Thanks for taking the time to meet with me"
+
+### hold + 목적어 + accountable (어순)
+- ❌ "hold accountable myself" → ✅ "hold myself accountable"
+- 설명: hold + 목적어 + 형용사 구조. 목적어가 먼저 와야 함
+- 같은 패턴: "keep myself motivated", "make myself useful"
+
+### end up + -ing (NOT end up with + -ing)
+- ❌ "ended up with taking a pic" → ✅ "ended up taking a pic"
+- 설명: "end up + -ing" 또는 "end up with + 명사"
+- 예시:
+  - ✅ "ended up taking a taxi" (동사)
+  - ✅ "ended up with a cold" (명사)
+  - ❌ "ended up with taking" (X)
+
 ---
 
 ## 🟡 Unnatural (어색한 표현)
@@ -95,6 +115,11 @@ My English mistakes, patterns to avoid, and new expressions learned.
 ### "changed into" vs "switched to"
 - ❌ "I changed into terminal" → ✅ "I switched to terminal"
 - 설명: "change into" = 옷 갈아입다, 변신하다. 도구/환경 바꾸는 건 "switch to"
+
+### "have this vibe" vs "find this vibe"
+- 🤷 "It's rare to have this vibe" → ✅ "It's rare to find this vibe"
+- 설명: "이런 분위기를 찾기/만나기 힘들다"는 맥락에서는 "find"가 더 자연스러움
+- "have"도 틀린 건 아니지만 "find"가 더 native 느낌
 
 ---
 
