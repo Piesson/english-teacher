@@ -56,6 +56,14 @@ My English mistakes, patterns to avoid, and new expressions learned.
   - ✅ "ended up with a cold" (명사)
   - ❌ "ended up with taking" (X)
 
+### Wish + 과거형 (가정법)
+- ❌ "Wish I talk to you more" → ✅ "Wish we talked more"
+- 설명: Wish 뒤에는 과거형 써야 함 (현재 사실의 반대를 바라는 가정법)
+- 예시:
+  - "I wish I had more time" (시간이 더 있으면 좋겠다)
+  - "Wish you were here" (네가 여기 있으면 좋겠다)
+  - "Wish I knew" (알았으면 좋겠다)
+
 ---
 
 ## 🟡 Unnatural (어색한 표현)
@@ -120,6 +128,16 @@ My English mistakes, patterns to avoid, and new expressions learned.
 - 🤷 "It's rare to have this vibe" → ✅ "It's rare to find this vibe"
 - 설명: "이런 분위기를 찾기/만나기 힘들다"는 맥락에서는 "find"가 더 자연스러움
 - "have"도 틀린 건 아니지만 "find"가 더 native 느낌
+
+### "know better" vs "get closer"
+- ❌ "hope to know better" (더 친해지다) → ✅ "hope to get closer"
+- 설명:
+  - "know better" = 분별력 있다, 더 잘 알다 ("You should know better" = 그 정도는 알아야지)
+  - "get closer" = 더 친해지다
+  - "get to know better" = 더 잘 알게 되다 (이것도 OK)
+- 예시:
+  - ✅ "Hope to get closer!" (더 친해지면 좋겠다)
+  - ✅ "Hope to get to know you better" (널 더 알아가고 싶다)
 
 ---
 
