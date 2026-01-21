@@ -153,6 +153,15 @@ My English mistakes, patterns to avoid, and new expressions learned.
 | **heading to bed** | 무난 |
 | **calling it a night** | 오늘은 여기까지 |
 
+### wade through
+- **뜻:** 힘들게 헤쳐나가다, 뚫고 처리하다
+- **원래 뜻:** 물/진흙을 걸어서 건너다
+- **비유적 (더 자주 씀):** 양 많거나 지루한 걸 힘들게 처리
+- **예시:**
+  - "wade through 200 emails" (이메일 200개 힘들게 처리)
+  - "wade through all the paperwork" (서류 산더미 처리)
+  - "wade through a boring report" (지루한 보고서 끝까지 읽기)
+
 ### Flat Adverbs (구어체 부사)
 형용사를 부사처럼 쓰는 구어체 표현. 원어민 일상 대화에서 자주 씀!
 
