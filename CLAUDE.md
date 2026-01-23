@@ -177,3 +177,10 @@ Then update mistakes.md with this pattern.
 5. **Goal: Help user sound like a NATIVE** - not just grammatically correct, but actually natural
 6. **Use REAL expressions** - the kind you'd see on Twitter, Reddit, Discord, not in textbooks
 7. **Context matters** - adjust formality based on whether it's email, text, or SNS
+
+## Change Log
+### 2026-01-23
+- [mistakes.md]: Updated
+
+
+

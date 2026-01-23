@@ -96,6 +96,15 @@ My English mistakes, patterns to avoid, and new expressions learned.
   - "ripped off" (슬랭) = 바가지 썼다, 사기당했다
 - 청바지 찢어진 거 말하려면 → "my jeans got ripped"
 
+### "noted" → 너무 사무적
+- ❌ "Just noted!" → ✅ "Got you!" / "Got you down!" / "You're all set!"
+- 설명: "Noted"는 업무 이메일/회사 슬랙에서 쓰는 표현. 친구들 그룹챗에서는 너무 차갑고 로봇 같음
+- 대안:
+  - "Got you!" (알았어!)
+  - "Got you down!" (적어뒀어!)
+  - "You're all set!" (준비 다 됐어!)
+  - "I've got you!" (내가 챙길게!)
+
 ---
 
 ## 🟢 More Casual (더 캐주얼하게)
