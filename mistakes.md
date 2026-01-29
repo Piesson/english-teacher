@@ -105,6 +105,14 @@ My English mistakes, patterns to avoid, and new expressions learned.
   - "You're all set!" (준비 다 됐어!)
   - "I've got you!" (내가 챙길게!)
 
+### "based on a lot of ~" → factor in / consider
+- ❌ "based on a lot of social hierarchy" → ✅ "factor in social hierarchy" / "consider the whole hierarchy thing"
+- 설명: "based on a lot of"는 어색함. 고려해야 할 요소 말할 때는 "factor in" 또는 "consider the whole ~ thing"
+- 예시:
+  - ✅ "You gotta factor in social hierarchy"
+  - ✅ "There's also the whole social hierarchy thing to consider"
+  - ✅ "You also need to account for social dynamics"
+
 ---
 
 ## 🟢 More Casual (더 캐주얼하게)
