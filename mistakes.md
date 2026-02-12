@@ -197,6 +197,18 @@ My English mistakes, patterns to avoid, and new expressions learned.
   - "wade through all the paperwork" (서류 산더미 처리)
   - "wade through a boring report" (지루한 보고서 끝까지 읽기)
 
+### hooked on
+- **뜻:** ~에 빠지다, ~에 중독되다 (낚싯바늘에 걸린 이미지)
+- **패턴:**
+  - "hooked on + 명사" → ~에 빠진
+  - "get hooked on" → ~에 빠지게 되다
+  - "hooked" 단독 → 완전 빠졌어
+- **예시:**
+  - "I'm hooked on this show" (이 드라마에 완전 빠졌어)
+  - "Got hooked on it after the first episode" (첫 회 보고 빠졌어)
+  - "Once you try it, you're hooked" (한번 해보면 빠져)
+- ⚠️ "hooked on by"는 어색함 → "~ got me hooked"로 쓰기
+
 ### Flat Adverbs (구어체 부사)
 형용사를 부사처럼 쓰는 구어체 표현. 원어민 일상 대화에서 자주 씀!
 
