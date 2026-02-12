@@ -113,6 +113,13 @@ My English mistakes, patterns to avoid, and new expressions learned.
   - ✅ "There's also the whole social hierarchy thing to consider"
   - ✅ "You also need to account for social dynamics"
 
+### 중복 표현: "a variety of kinds of"
+- ❌ "a variety of kinds of activities" → ✅ "different activities" / "other activities"
+- 설명: "a variety of"와 "kinds of"는 같은 뜻. 둘 다 쓰면 겹침
+- 같은 실수 패턴:
+  - ❌ "many different various" → ✅ "various" 또는 "many different"
+  - ❌ "a lot of many" → ✅ "a lot of" 또는 "many"
+
 ---
 
 ## 🟢 More Casual (더 캐주얼하게)
