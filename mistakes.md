@@ -216,6 +216,18 @@ My English mistakes, patterns to avoid, and new expressions learned.
   - "Once you try it, you're hooked" (한번 해보면 빠져)
 - ⚠️ "hooked on by"는 어색함 → "~ got me hooked"로 쓰기
 
+### talking your book
+- **뜻:** 자기 이해관계에 유리한 말을 하다 (금융 용어에서 유래)
+- **유래:** "book" = 투자 포트폴리오. 자기가 투자한 걸 좋다고 떠드는 것
+- **예시:**
+  - "Of course the CEO says crypto is the future, he's just talking his book"
+  - "I don't trust that analyst, she's clearly talking her book"
+  - "It's bad for your soul to spend too much time talking your book"
+- **비슷한 표현:**
+  - "drinking your own Kool-Aid" = 자기가 한 말을 자기도 믿는 것
+  - "shilling" = 대놓고 홍보 (더 부정적)
+- ⚠️ tech/finance/VC 쪽에서 자주 쓰임
+
 ### Flat Adverbs (구어체 부사)
 형용사를 부사처럼 쓰는 구어체 표현. 원어민 일상 대화에서 자주 씀!
 
