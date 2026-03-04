@@ -228,6 +228,19 @@ My English mistakes, patterns to avoid, and new expressions learned.
   - "shilling" = 대놓고 홍보 (더 부정적)
 - ⚠️ tech/finance/VC 쪽에서 자주 쓰임
 
+### Singular "they" (단수 they)
+- **뜻:** 성별을 모르거나 특정 안 할 때 단수로 쓰는 they
+- **역사:** 1375년부터 써온 용법. Merriam-Webster, APA, MLA 공식 인정
+- **패턴:**
+  - 성별 모르는 특정인 → they/their/them
+  - "someone", "anyone", "a person" 같은 불특정 단수 → they
+- **예시:**
+  - "Someone left **their** umbrella here." (누가 우산 놓고 갔네)
+  - "A friend called. **They** said they'll be late." (친구가 전화했는데 늦는대)
+  - "Did **they** end up going?" (그 사람 결국 갔어?)
+  - "The new student? Yeah **they** seem nice."
+- ⚠️ "he or she" = 너무 딱딱함. 네이티브는 그냥 they 씀
+
 ### Flat Adverbs (구어체 부사)
 형용사를 부사처럼 쓰는 구어체 표현. 원어민 일상 대화에서 자주 씀!
 
