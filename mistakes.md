@@ -241,6 +241,20 @@ My English mistakes, patterns to avoid, and new expressions learned.
   - "The new student? Yeah **they** seem nice."
 - ⚠️ "he or she" = 너무 딱딱함. 네이티브는 그냥 they 씀
 
+### fan out
+- **뜻:** 여러 방향으로 퍼져나가다 / 분산시키다
+- **원래 뜻:** 부채(fan)처럼 퍼지는 모양
+- **패턴:**
+  - "fan out" (동사) → 흩어지다, 퍼져나가다
+  - "fan out [tasks/requests] to ~" → ~에게 분산시키다
+- **일상/군사 맥락:**
+  - "The soldiers fanned out across the field." (병사들이 들판으로 흩어졌다)
+  - "Let's fan out and search the area." (퍼져서 지역을 수색하자)
+- **개발/기술 맥락 (자주 씀):**
+  - "Fan out the tasks to parallel agents." (작업을 병렬 에이전트들에게 분배해)
+  - "We fanned out the requests to multiple servers." (요청을 여러 서버에 분산시켰다)
+- **반대말:** fan in = 여러 개가 하나로 모이는 것
+
 ### Flat Adverbs (구어체 부사)
 형용사를 부사처럼 쓰는 구어체 표현. 원어민 일상 대화에서 자주 씀!
 
