@@ -163,6 +163,18 @@ My English mistakes, patterns to avoid, and new expressions learned.
   - ✅ "Hope to get closer!" (더 친해지면 좋겠다)
   - ✅ "Hope to get to know you better" (널 더 알아가고 싶다)
 
+### "quote" vs "estimate" (견적서)
+- **quote** = 확정된 가격 ("이 가격에 해드릴게요")
+- **estimate** = 대략적 견적 (최종 가격 변동 가능)
+- 일상 대화에서는 거의 같은 의미로 쓰이고, **quote**가 더 흔함
+- 관련 표현:
+  - **bid** → 업체가 경쟁 입찰하는 느낌 (공사/프로젝트)
+  - **pricing** → 가격 알아봤다는 가벼운 느낌 ("I got pricing on the AC cleaning")
+- 예시:
+  - ✅ "I just submitted a quote for the AC cleaning"
+  - ✅ "I got an estimate for the move"
+  - ✅ "I got pricing on the AC cleaning"
+
 ---
 
 ## 🟣 Abbreviations & Slang (약어 & 슬랭)
