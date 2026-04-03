@@ -281,6 +281,43 @@ My English mistakes, patterns to avoid, and new expressions learned.
 
 ⚠️ Formal한 글쓰기에서는 -ly 형태 쓰기. 캐주얼 대화/텍스트에서는 flat adverb OK!
 
+### "삐짐" 3종 세트 — butthurt / pouty / sulky
+
+같은 "삐짐"인데 감정의 결이 완전히 다름.
+
+| 단어 | 핵심 느낌 | 상대 시선 | 뉘앙스 |
+|------|----------|----------|--------|
+| **butthurt** | 과민 반응으로 삐짐 | "왜 저럼?" (비웃음) | 공격적/비꼼 |
+| **pouty** | 귀엽게 입 삐죽 삐짐 | "귀엽네~" | 가볍고 cute |
+| **sulky** | 말 없이 조용히 삐짐 | "분위기 다운됨" | 어둡고 무거움 |
+
+**butthurt**
+- 뜻: 별 것도 아닌 데 과하게 삐져서 예민하게 구는 것
+- ⚠️ 상대를 놀리거나 무시하는 뉘앙스 포함. 주로 3인칭으로 씀
+- 예시:
+  - "He got butthurt over a joke." (농담 하나에 혼자 긁혔어)
+  - "Why are you so butthurt?" (왜 이렇게 예민하게 굴어?)
+
+**pouty**
+- 뜻: 입 삐죽하고 말 안 하는 귀여운 삐짐 (표정/행동 중심)
+- 연인/친구 사이에서 자주 씀. 약간 childish하지만 cute
+- 예시:
+  - "Don't be pouty." (그렇게 입 삐죽하지 마~)
+  - "She's being pouty because I didn't text back." (답장 안 해서 삐짐)
+
+**sulky**
+- 뜻: 말수 줄고 혼자 조용히 삐져서 분위기 싸해지는 것
+- 어두운 느낌. 옆에 있으면 분위기 다운됨
+- 예시:
+  - "He sat there looking sulky." (가만히 앉아서 기분 안 좋은 티 팍 냄)
+  - "Don't get sulky just because you lost." (졌다고 그렇게 삐지지 마)
+
+**실전 선택 기준:**
+- 연인/친구 귀여운 삐짐 → **pouty**
+- 분위기 망치는 조용한 삐짐 → **sulky**
+- 과민반응 비꼬려고 → **butthurt** (조심해서 쓰기)
+- 일반적으로 → upset / annoyed
+
 ---
 
 *This file is automatically updated by the English Teacher agent.*
